@@ -1,0 +1,19 @@
+{
+  "name": "learning-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "javascript",
+    "typescript",
+    "react",
+    "vue",
+    "rust",
+    "book"
+  ],
+  "repository": "git@github.com:arsize/learning-practice.git",
+  "author": "arsize <arsizeof3416@gmail.com>",
+  "license": "CC BY-NC-ND"
+}
